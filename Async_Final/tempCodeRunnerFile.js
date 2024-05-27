@@ -1,0 +1,1 @@
+.then(read=>console.log(read.time.updated+"\n Name: "+read.chartName+"\n Rate: "+read.bpi.USD.rate_float))
